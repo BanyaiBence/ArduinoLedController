@@ -27,4 +27,5 @@ It will allow the user to control different lighting patterns, effects and color
 4. Testing and debugging the system to ensure it works as expected.
 
 ## Useful Links
-[U8G2 Menu code example](https://forum.arduino.cc/t/oled-menu-with-u8g2-lib/554555)
+- [U8G2 Menu code example](https://forum.arduino.cc/t/oled-menu-with-u8g2-lib/554555)
+- [U8G2 Setup](https://github.com/olikraus/u8g2/wiki/setup_tutorial)
